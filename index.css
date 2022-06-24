@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+.title {
+    color: darkorange;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: #458588;
+}
+
+.outline-2 {
+    padding-bottom: 10vh;
+
+}
+
+blockquote {
+    display:block;
+    background: #fff;
+    padding: 15px 20px 15px 45px;
+    margin: 0 0 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+
+    /*Font*/
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #666;
+    text-align: justify;
+
+    /*Borders - (Optional)*/
+    border-left: 15px solid #fe8019;
+    border-right: 2px solid #fe8019;
+
+    /*Box Shadow - (Optional)*/
+    -moz-box-shadow: 2px 2px 15px #ccc;
+    -webkit-box-shadow: 2px 2px 15px #ccc;
+    box-shadow: 2px 2px 15px #ccc;
+}
+
+dt {
+    font-size: 20px;
+}
+
+dd {
+    margin-top: 5px;
+    margin-bottom: 13px;
+}
+
+.org-dl {
+    margin: 5%;
+}
+
+
+@media screen and (max-width: 900px) {
+    #content {
+        width: 85%;
+    }
+
+    h1 {
+        font-size: 55px;
+    }
+
+    h2 {
+        font-size: 35px;
+    }
+
+}
+
+@media screen and (max-width: 650px) {
+    #content {
+        width: 90%;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+
+    h2 {
+        font-size: 30px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 550px) {
+    #content {
+        width: 95%;
+    }
+
+    h1 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+
+    h2 {
+        font-size: 25px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+
+}
