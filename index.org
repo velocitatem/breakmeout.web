@@ -30,10 +30,12 @@ Try to motivate as many people to leave social media, like that, there will be n
 
 
 * Living without social media
-+ When you wake up, instead of checking social media :: Look outside and check the weather and keep your phone in a separate room overnight.
++ When you wake up, instead of checking social media :: Look outside and check the weather and make sure to keep your phone in a separate room overnight.
 + Get distracted by your phone? :: Keep it away while you work, [[How to use your computer][learn how to use your computer]]!
 + Cant fall asleep and wanna check social media? :: Learn some [[https://www.healthline.com/health/breathing-exercises-for-sleep#4-7-8-technique][breathing exrcises]] or ask your doctor.
 + Bored on the subway? :: Reflect on today or try some breathing exercises.
++ Want to keep up with friends and family? :: Use [[https://signal.org/][signal]]!  
+  
   
 ** How to use your computer
 + Write and email instead of calling or texting
