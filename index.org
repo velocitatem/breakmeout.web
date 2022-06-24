@@ -1,6 +1,6 @@
 #+TITLE: BREAK ME OUT
 #+DESCRIPTION: A helping hand to those stuck in the hell loop of social media.
-#+OPTIONS: num:nil timestamp:nil toc:nil author:nil
+#+OPTIONS: num:nil timestamp:nil toc:nil author:nil 
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="index.css"></link>
 
 
