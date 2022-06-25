@@ -1,6 +1,6 @@
 #+TITLE: BREAK ME OUT
 #+DESCRIPTION: A helping hand to those stuck in the hell loop of social media.
-#+OPTIONS: num:nil timestamp:nil toc:nil author:nil 
+#+OPTIONS: num:nil timestamp:nil toc:nil author:nil title:nil
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="index.css"></link>
 
 
@@ -14,19 +14,27 @@
 #+HTML_HEAD: gtag('config', 'G-Z19FJZYCZE');
 #+HTML_HEAD: </script>
 
+
+
+#+attr_html: :width 70%
+[[./favicon.png]]
+
 #+begin_quote
 A helping hand to those stuck in the hell loop of social media.
 #+end_quote
 
-Have you ever tried to leave social media, but then you came back? So has almost everyone. It is hard to treat addiction without external help.
+
+Not sure why you should leave? Maybe [[][]] will help.
 
 * How to escape?
-Simple. You can't, not unless you are alone. That is why it is important that you share this with your friends and family.
-Try to motivate as many people to leave social media, like that, there will be no need for it.
 
-1. Announce that you will be leaving social media, and mention @BREAKMEOUT.today
-2. Share what you did with your friends and family, not using social media.
-3. Enjoy your life! If you need help, consult the help guide bellow.
+#+attr_html: :id boom
+Simple. You can't. Not alone!
+
+Here is how you can *break out*:
+1. Post [[https://www.instagram.com/p/CfL6iVUtGk5/?utm_source=ig_web_copy_link][this]] on your story.
+2. Tell your friends and family. /[[Sample message][What you could say]]/ 
+3. Enjoy your life! Consult the help guide bellow.
 
 
 * Living without social media
@@ -42,3 +50,8 @@ Try to motivate as many people to leave social media, like that, there will be n
 + Use desktop versions for certain apps (not social media)
 + Search for apps which can connect your phone to your computer
 
+
+** Sample message
+#+begin_quote
+Hey, I have decided to take a break from social media. I would like to ask you to join and support me. Check out [[https://breakmeout.today/][www.breakmeout.today]].
+#+end_quote

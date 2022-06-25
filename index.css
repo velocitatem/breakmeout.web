@@ -1,4 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+#boom {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
 
 .title {
     color: darkorange;
@@ -44,8 +50,8 @@ blockquote {
     text-align: justify;
 
     /*Borders - (Optional)*/
-    border-left: 15px solid #fe8019;
-    border-right: 2px solid #fe8019;
+    border-left: 15px solid #405DE6;
+    border-right: 2px solid #5B51D8;
 
     /*Box Shadow - (Optional)*/
     -moz-box-shadow: 2px 2px 15px #ccc;
