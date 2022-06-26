@@ -1,0 +1,12 @@
+[[./favicon.png]]
+
+#+begin_quote
+A helping hand to those stuck in the hell loop of social media.
+#+end_quote
+
+
+* How can you help?
+Add tips on how to overcome social media addiction to escape_guide.org in the format:
+#+begin_src org
++ PROBLEM :: SOLUTION
+#+end_src
