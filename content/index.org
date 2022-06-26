@@ -24,7 +24,7 @@ A helping hand to those stuck in the hell loop of social media.
 #+end_quote
 
 
-Not sure why you should leave? Maybe [[][]] will help.
+Not sure why you should leave? Maybe [[./persuademe.org][this]] will help.
 
 * How to escape?
 
@@ -40,11 +40,6 @@ Here is how you can *break out*:
 * Living without social media
 #+INCLUDE: ./escape_guide.org
   
-** How to use your computer
-+ Write and email instead of calling or texting
-+ Use desktop versions for certain apps (not social media)
-+ Search for apps which can connect your phone to your computer
-
 
 ** Sample message
 #+begin_quote
