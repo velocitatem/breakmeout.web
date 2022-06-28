@@ -1,4 +1,4 @@
-[[./favicon.png]]
+[[./public/favicon.png]]
 
 #+begin_quote
 A helping hand to those stuck in the hell loop of social media.
@@ -10,3 +10,9 @@ Add tips on how to overcome social media addiction to escape_guide.org in the fo
 #+begin_src org
 + PROBLEM :: SOLUTION
 #+end_src
+
+* TODO BreakMeOut
++ [ ] Have at least 20 guide tips
++ [ ] Create stronger posts (stronger in the sense of being more capturing)
++ [ ] Improve intractability - make posts with which users can interact
++ [ ] Czech localization?
