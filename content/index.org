@@ -24,7 +24,7 @@ A helping hand to those stuck in the hell loop of social media.
 #+end_quote
 
 
-Not sure why you should leave? Maybe [[./persuademe.org][this]] will help.
+You are likely to spend between *5 to 10 seconds* on this website. How do we know that? Not sure why you should leave? Maybe [[./persuademe.org][this]] will help.
 
 * How to escape?
 

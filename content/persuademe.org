@@ -1,3 +1,35 @@
 #+title: Why Leave? Its so much FUN!
+#+DESCRIPTION: A helping hand to those stuck in the hell loop of social media.
+#+OPTIONS: num:nil timestamp:nil toc:nil author:nil title:nil
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="index.css"></link>
 
-Sorry, nothing yet 🙁
+
+#+HTML_HEAD: <!-- Global site tag (gtag.js) - Google Analytics -->
+#+HTML_HEAD: <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z19FJZYCZE"></script>
+#+HTML_HEAD: <script>
+#+HTML_HEAD: window.dataLayer = window.dataLayer || [];
+#+HTML_HEAD: function gtag(){dataLayer.push(arguments);}
+#+HTML_HEAD: gtag('js', new Date());
+#+HTML_HEAD: 
+#+HTML_HEAD: gtag('config', 'G-Z19FJZYCZE');
+#+HTML_HEAD: </script>
+
+
+#+begin_quote
+Why Leave? Its so much FUN!
+#+end_quote
+
+The reason why we know that you were going to spend 5 to 10 seconds on this website is that we used Facebook to promote this. And with that we know a lot more than you might think 🙊.
+
+How can we persuade you to abandon something that you love? 
+
+* Logical reason why you should leave
++ The world is so much more :: You might find peace in escaping into social media. You could find *so much more* in the real world, the issue is, you have to work for it.
++ You are being manipulated :: all algorithms on social media are designed to keep your attention for as long as possible
++ Modern-day slavery :: As the social dilemma says, you are the product. The time you spend looking at your screen, is being sold to companies trying to promote their products.
++ You think you are using. It is using you :: It is using you to gather information on you and human behavior.
++ Forces standards :: By forcing and planting some standard into your head, it makes you more insecure and vulnerable
++ A-SOCIAL media :: Social media? What's that? What we have, without realizing it, makes us less social and isolates us.
++ You have no privacy :: Using social media is as if you would put everything about you, all your secrets into a diary and then left that diary in the public.
++ Suicide :: Yeah, no biggie here. WHAT! "There is increasing evidence that the Internet and social media can influence suicide-related behavior." [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3477910/][source]]
++ Miss a flight? No problem. Miss a comment from a firend? NEVER! :: you might constantly check your messages to see if anyone has invited you out, or focus on your Instagram feed all day to make sure that nobody is doing something cool without you. [[https://www.makeuseof.com/tag/negative-effects-social-media/][source]] 

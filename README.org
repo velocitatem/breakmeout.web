@@ -1,4 +1,4 @@
-[[./favicon.png]]
+[[./public/favicon.png]]
 
 #+begin_quote
 A helping hand to those stuck in the hell loop of social media.
