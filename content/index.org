@@ -33,14 +33,12 @@ Simple. You can't. Not alone!
 
 Here is how you can *break out*:
 1. Post [[https://www.instagram.com/p/CfL6iVUtGk5/?utm_source=ig_web_copy_link][this]] on your story.
-2. Tell your friends and family. /[[Sample message][What you could say]]/ 
+2. Tell your friends and family. /[[Sample message][What you could say]]./ 
 3. Enjoy your life! Consult the help guide bellow.
-
 
 * Living without social media
 #+INCLUDE: ./escape_guide.org
   
-
 ** Sample message
 #+begin_quote
 Hey, I have decided to take a break from social media. I would like to ask you to join and support me. Check out [[https://breakmeout.today/][www.breakmeout.today]].
