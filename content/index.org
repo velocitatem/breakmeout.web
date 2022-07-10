@@ -22,6 +22,8 @@
 
 
 
+/Project maintenance has been terminated. Why? The approach to solving the problem was too passive, not motivational enough/
+
 #+attr_html: :width 70%
 [[./favicon.png]]
 
